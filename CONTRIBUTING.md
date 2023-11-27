@@ -14,6 +14,7 @@ _Note: No strict convention while naming branch, but try to keep it meaningful f
 
 _Commit message convention:_
 - Feature - `feat: integrate token balances`
+- Release/Build - `release_2.1` or `v2.1`
 - Release/Build - `chore: release v2.1` or `chore: bump version to 2.1`
 - Fix/Bug - `fix: token balances` or `fix: token list, transfers` (if more than one)
 
